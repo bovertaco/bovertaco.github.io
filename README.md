@@ -1,19 +1,8 @@
-# bovertaco.github.io
-website
-
-now we are trying the stuff
-
-<!DOCTYPE html>
 <html>
 <body>
 
-<h2>My First JavaScript</h2>
-
-<button type="button"
-onclick="document.getElementById('demo').innerHTML = Date()">
-Click me to display Date and Time.</button>
-
-<p id="demo"></p>
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
 
 </body>
-</html> 
+</html>
