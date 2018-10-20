@@ -7,7 +7,7 @@
 
 <p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
 
-<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+<button onclick="document.getElementById('myImage').src='https://404store.com/2017/12/08/random-pic-14.jpg'">Turn on the light</button>
 
 <img id="myImage" src="pic_bulboff.gif" style="width:100px">
 
