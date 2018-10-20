@@ -56,6 +56,12 @@ li a:hover:not(.active) {
 
 <button onclick="document.getElementById('myImage').src='XfG4cdf.jpg'">Turn off the light</button>
 
+testing testing.
+
+
+<a href="testinclude.html">click here to try</a>
+
+
 <?php
     include "testinclude.html";
 ?>
