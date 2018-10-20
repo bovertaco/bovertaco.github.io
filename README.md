@@ -10,11 +10,8 @@
   <li><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="about.html">About</a></li>
 </ul>
-
-
-
 
 <h2>What Can JavaScript Do?</h2>
 
@@ -27,11 +24,6 @@
 <img id="myImage" src="XfG4cdf.jpg" style="width:100px">
 
 <button onclick="document.getElementById('myImage').src='XfG4cdf.jpg'">Turn off the light</button>
-
-testing testing.
-
-
-<a href="testinclude.html">click here to try</a>
 
 </body>
 </html>
