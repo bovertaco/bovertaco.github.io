@@ -1,6 +1,7 @@
-<title>Richards learning website</title>
+
 <html>
 <head>
+<title>Richards learning website</title>
 <style>
 ul {
     list-style-type: none;
